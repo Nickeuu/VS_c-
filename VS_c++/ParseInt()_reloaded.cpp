@@ -9,7 +9,7 @@ long parse_int(std::string number) {
     s = "I love to read articles on Favtutor.";
 
     // ss is an object of stringstream that references the S string.  
-    stringstream stringStream(s);
+    stringstream ss(s);
 
     return 0;
 }
