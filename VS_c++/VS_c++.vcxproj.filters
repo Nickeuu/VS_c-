@@ -13,10 +13,22 @@
       <UniqueIdentifier>{67DA6AB6-F800-4c08-8B7A-83BB121AAD01}</UniqueIdentifier>
       <Extensions>rc;ico;cur;bmp;dlg;rc2;rct;bin;rgs;gif;jpg;jpeg;jpe;resx;tiff;tif;png;wav;mfcribbon-ms</Extensions>
     </Filter>
+    <Filter Include="Source Files\CodeWars_Problems">
+      <UniqueIdentifier>{27a9ae09-52a4-4887-b3c0-ad9421e12246}</UniqueIdentifier>
+    </Filter>
   </ItemGroup>
   <ItemGroup>
-    <ClCompile Include="VS_c++.cpp">
-      <Filter>Source Files</Filter>
+    <ClCompile Include="Moving_Zeros_To_The_End.cpp">
+      <Filter>Source Files\CodeWars_Problems</Filter>
+    </ClCompile>
+    <ClCompile Include="Pick_peaks.cpp">
+      <Filter>Source Files\CodeWars_Problems</Filter>
+    </ClCompile>
+    <ClCompile Include="Range_Extraction.cpp">
+      <Filter>Source Files\CodeWars_Problems</Filter>
+    </ClCompile>
+    <ClCompile Include="ParseInt()_reloaded.cpp">
+      <Filter>Source Files\CodeWars_Problems</Filter>
     </ClCompile>
   </ItemGroup>
 </Project>
