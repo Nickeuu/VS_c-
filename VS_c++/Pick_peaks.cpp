@@ -51,11 +51,11 @@ PeakData pick_peaks(const std::vector<int>& v) {
     return result;
 }
 
-int main() {
-    PeakData actual;
-    actual = pick_peaks(std::vector<int> {3, 2, 3, 6, 4, 1, 2, 3, 2, 1, 5, 5});
-    for (int i = 0; i < actual.peaks.size(); i++) {
-        cout << actual.pos[i] << endl << actual.peaks[i] << endl;
-    }
-    return 0;
-}
+//int main() {
+//    PeakData actual;
+//    actual = pick_peaks(std::vector<int> {3, 2, 3, 6, 4, 1, 2, 3, 2, 1, 5, 5});
+//    for (int i = 0; i < actual.peaks.size(); i++) {
+//        cout << actual.pos[i] << endl << actual.peaks[i] << endl;
+//    }
+//    return 0;
+//}

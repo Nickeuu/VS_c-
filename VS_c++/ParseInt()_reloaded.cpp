@@ -1,14 +1,11 @@
 #include <string>
 #include <iostream>
+#include <sstream>
 
 using namespace std;
 
 long parse_int(std::string number) {
-    string s, str;
-
-    s = "I love to read articles on Favtutor.";
-
-    // ss is an object of stringstream that references the S string.  
+    string s, str;  
     stringstream ss(s);
 
     return 0;

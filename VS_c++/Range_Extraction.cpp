@@ -55,7 +55,7 @@ std::string range_extraction(std::vector<int> args) {
     return result;
 }
 
-int main() {
-    std::cout << range_extraction({ -10, -8, -7, -6, -3, -2, -1, 0, 1, 3, 4, 5, 7, 8, 9, 10, 11, 14, 15, 17, 18, 19, 20 });
-    return 0;
-}
+//int main() {
+//    std::cout << range_extraction({ -10, -8, -7, -6, -3, -2, -1, 0, 1, 3, 4, 5, 7, 8, 9, 10, 11, 14, 15, 17, 18, 19, 20 });
+//    return 0;
+//}
