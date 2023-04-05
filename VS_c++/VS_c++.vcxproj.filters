@@ -30,5 +30,8 @@
     <ClCompile Include="ParseInt()_reloaded.cpp">
       <Filter>Source Files\CodeWars_Problems</Filter>
     </ClCompile>
+    <ClCompile Include="Count_characters_in_your_string.cpp">
+      <Filter>Source Files\CodeWars_Problems</Filter>
+    </ClCompile>
   </ItemGroup>
 </Project>
