@@ -27,7 +27,7 @@ std::map<char, unsigned> count(const std::string& string) {
     return { result };
 }
 
-int main() {
-    count("aba");
-    return 0;
-}
+//int main() {
+//    count("aba");
+//    return 0;
+//}
