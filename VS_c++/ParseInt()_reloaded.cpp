@@ -144,9 +144,9 @@ long parse_int(std::string number) {
 }
 
 
-int main() {
-    std::cout << parse_int("one million");
-    return 0;
-}
+//int main() {
+//    std::cout << parse_int("one million");
+//    return 0;
+//}
 
 //one thousand three hundred thirty seven
