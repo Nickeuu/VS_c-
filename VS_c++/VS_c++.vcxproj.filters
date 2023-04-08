@@ -39,5 +39,8 @@
     <ClCompile Include="Delete_occurrences_of_an_element_if_it_occurs_more_than_n_times.cpp">
       <Filter>Source Files\CodeWars_Problems</Filter>
     </ClCompile>
+    <ClCompile Include="Find_the_unique_number.cpp">
+      <Filter>Source Files\CodeWars_Problems</Filter>
+    </ClCompile>
   </ItemGroup>
 </Project>
