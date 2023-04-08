@@ -45,5 +45,8 @@
     <ClCompile Include="Build_Tower.cpp">
       <Filter>Source Files\CodeWars_Problems</Filter>
     </ClCompile>
+    <ClCompile Include="Take_a_Number_And_Sum_Its_Digits_Raised_To_The_Consecutive_Powers_And_Eureka!!.cpp">
+      <Filter>Source Files\CodeWars_Problems</Filter>
+    </ClCompile>
   </ItemGroup>
 </Project>
