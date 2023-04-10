@@ -20,6 +20,7 @@
   </ItemGroup>
   <ItemGroup>
     <ClCompile Include="Binary_Addition.cpp" />
+    <ClCompile Include="Bouncing_Balls.cpp" />
     <ClCompile Include="Build_Tower.cpp" />
     <ClCompile Include="Counting_Duplicates.cpp" />
     <ClCompile Include="Count_characters_in_your_string.cpp" />
