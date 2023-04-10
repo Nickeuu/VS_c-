@@ -26,6 +26,7 @@
     <ClCompile Include="Count_characters_in_your_string.cpp" />
     <ClCompile Include="Delete_occurrences_of_an_element_if_it_occurs_more_than_n_times.cpp" />
     <ClCompile Include="Find_the_unique_number.cpp" />
+    <ClCompile Include="Mexican_Wave.cpp" />
     <ClCompile Include="Moving_Zeros_To_The_End.cpp" />
     <ClCompile Include="ParseInt()_reloaded.cpp" />
     <ClCompile Include="Pick_peaks.cpp" />

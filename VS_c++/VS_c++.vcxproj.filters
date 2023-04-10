@@ -57,5 +57,8 @@
     <ClCompile Include="String_incrementer.cpp">
       <Filter>Source Files\CodeWars_Problems</Filter>
     </ClCompile>
+    <ClCompile Include="Mexican_Wave.cpp">
+      <Filter>Source Files\CodeWars_Problems</Filter>
+    </ClCompile>
   </ItemGroup>
 </Project>
