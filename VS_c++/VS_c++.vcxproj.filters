@@ -63,5 +63,8 @@
     <ClCompile Include="Tribonacci_Sequence.cpp">
       <Filter>Source Files\CodeWars_Problems</Filter>
     </ClCompile>
+    <ClCompile Include="Build_a_pile_of_Cubes.cpp">
+      <Filter>Source Files\CodeWars_Problems</Filter>
+    </ClCompile>
   </ItemGroup>
 </Project>
