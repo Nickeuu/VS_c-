@@ -66,5 +66,8 @@
     <ClCompile Include="Build_a_pile_of_Cubes.cpp">
       <Filter>Source Files\CodeWars_Problems</Filter>
     </ClCompile>
+    <ClCompile Include="Sort_the_odd.cpp">
+      <Filter>Source Files\CodeWars_Problems</Filter>
+    </ClCompile>
   </ItemGroup>
 </Project>
