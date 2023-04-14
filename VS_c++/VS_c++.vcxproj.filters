@@ -72,5 +72,8 @@
     <ClCompile Include="Primes_in_numbers.cpp">
       <Filter>Source Files\CodeWars_Problems</Filter>
     </ClCompile>
+    <ClCompile Include="Simple_Encryption_#1_-_Alternating_Split.cpp">
+      <Filter>Source Files\CodeWars_Problems</Filter>
+    </ClCompile>
   </ItemGroup>
 </Project>
