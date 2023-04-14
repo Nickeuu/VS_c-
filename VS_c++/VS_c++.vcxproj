@@ -37,6 +37,7 @@
     <ClCompile Include="Sort_the_odd.cpp" />
     <ClCompile Include="String_incrementer.cpp" />
     <ClCompile Include="Take_a_Number_And_Sum_Its_Digits_Raised_To_The_Consecutive_Powers_And_Eureka!!.cpp" />
+    <ClCompile Include="Take_a_Ten_Minutes_Walk.cpp" />
     <ClCompile Include="The_Supermarket_Queue.cpp" />
     <ClCompile Include="Tribonacci_Sequence.cpp" />
   </ItemGroup>

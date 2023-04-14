@@ -78,5 +78,8 @@
     <ClCompile Include="The_Supermarket_Queue.cpp">
       <Filter>Source Files\CodeWars_Problems</Filter>
     </ClCompile>
+    <ClCompile Include="Take_a_Ten_Minutes_Walk.cpp">
+      <Filter>Source Files\CodeWars_Problems</Filter>
+    </ClCompile>
   </ItemGroup>
 </Project>
