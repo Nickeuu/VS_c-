@@ -75,5 +75,8 @@
     <ClCompile Include="Simple_Encryption_#1_-_Alternating_Split.cpp">
       <Filter>Source Files\CodeWars_Problems</Filter>
     </ClCompile>
+    <ClCompile Include="The_Supermarket_Queue.cpp">
+      <Filter>Source Files\CodeWars_Problems</Filter>
+    </ClCompile>
   </ItemGroup>
 </Project>
