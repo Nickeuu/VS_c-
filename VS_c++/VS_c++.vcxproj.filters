@@ -88,7 +88,7 @@
       <Filter>Source Files\CodeWars_Problems</Filter>
     </ClCompile>
     <ClCompile Include="Design_a_Simple_Automaton_(Finite_State_Machine).cpp">
-      <Filter>Source Files</Filter>
+      <Filter>Source Files\CodeWars_Problems</Filter>
     </ClCompile>
   </ItemGroup>
 </Project>
