@@ -90,5 +90,8 @@
     <ClCompile Include="Design_a_Simple_Automaton_(Finite_State_Machine).cpp">
       <Filter>Source Files\CodeWars_Problems</Filter>
     </ClCompile>
+    <ClCompile Include="A_Simplistic_TCP_Finite_State_Machine_(FSM).cpp">
+      <Filter>Source Files\CodeWars_Problems</Filter>
+    </ClCompile>
   </ItemGroup>
 </Project>

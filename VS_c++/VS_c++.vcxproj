@@ -19,6 +19,7 @@
     </ProjectConfiguration>
   </ItemGroup>
   <ItemGroup>
+    <ClCompile Include="A_Simplistic_TCP_Finite_State_Machine_(FSM).cpp" />
     <ClCompile Include="Binary_Addition.cpp" />
     <ClCompile Include="Bouncing_Balls.cpp" />
     <ClCompile Include="Build_a_pile_of_Cubes.cpp" />
