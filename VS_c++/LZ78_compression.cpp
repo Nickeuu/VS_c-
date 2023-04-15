@@ -2,6 +2,9 @@
 #include <vector>
 #include <iostream>
 
+//Working on visual studio but not in CodeWars
+
+
 std::string encoder(const std::string& data)
 {
     std::vector<std::string> dictionary;
